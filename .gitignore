@@ -1,0 +1,12 @@
+.ipynb_checkpoints/
+
+venv/
+.venv
+venv*
+*.csv/
+*.parquet/
+*.orc/
+spark-warehouse/
+metastore_db/
+
+.idea/
